@@ -5,7 +5,7 @@ string country = "UAE";
 if (country == "UIAE")
     {welcomemsg = welcomemsg + ' ' + country;}
 else
-    {welcomemsg = welcomemsg + ' ' + "!!!!";}
+    {welcomemsg = welcomemsg + ' ' + "ABC";}
 
 Console.WriteLine(welcomemsg);
 
